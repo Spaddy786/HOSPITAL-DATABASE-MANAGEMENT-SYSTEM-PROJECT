@@ -1,11 +1,11 @@
 HOSPITAL DATABASE MANAGEMENT SYSTEM
 
 
-Done by-
+Done by-<br/>
 
-Lokesh Kumar
-Aditya Arya
-Falguni Patre
-Sudiptha Reddy
-Tanusha Gudise
+Lokesh Kumar<br/>
+Aditya Arya<br/>
+Falguni Patre<br/>
+Sudiptha Reddy<br/>
+Tanusha Gudise<br/>
 
